@@ -1,4 +1,4 @@
-Generates a puzzle from a chosen image
+Generates a playable puzzle from a chosen image
 
 Using :
 - Bun
